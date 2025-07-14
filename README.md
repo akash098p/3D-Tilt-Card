@@ -73,7 +73,7 @@ The card displays:
   • ✅ To change text:
    Update:
 
- - <h1>for the college name.
+ - h1 for the college name.
 
  - <p> for location.
 
