@@ -70,6 +70,7 @@ Preview
      <div class="card-container"
      style="background-image: url('YOUR_IMAGE_URL');"
      ... >
+     
   • ✅ To change text:
    Update:
 
@@ -102,8 +103,10 @@ Preview
 4️⃣ Click Explore Campus to visit the linked page.
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
+
 Akash Pramanik
 
-📝 License
+## 📝 License
+
 This is a simple front-end component. Use it freely for educational, personal, or institutional projects.
