@@ -30,7 +30,7 @@ The card displays:
 
 ## 💡 Screenshots
 
-![3d_card](3d card.png)
+![3d Card](3dCard.png)
 
 ## 🖥️ live Preview
 
