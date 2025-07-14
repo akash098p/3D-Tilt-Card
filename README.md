@@ -29,17 +29,16 @@ The card displays:
   ✅ Easy to Customize — Update image, colors, and text with minimal changes.
 
 ## 💡 Screenshots
-Preview
 
+![3d card](3d card.png)
 
+## 🖥️ live Preview
 
-✅ Live Demo
-
-💻 Just open your HTML file in a browser — no server required.
 
 
 
 ## 📌 How It Works
+
   -The card container has a background image.
 
   -Vanilla Tilt applies 3D transform on mouse hover.
@@ -74,7 +73,7 @@ Preview
   • ✅ To change text:
    Update:
 
- - <h1> for the college name.
+ - <h1>for the college name.
 
  - <p> for location.
 
